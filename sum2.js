@@ -3,4 +3,4 @@ function sum(a, b) {
 }
 module.exports = sum;
 
-/*testing2334*/
+/*testing*/
